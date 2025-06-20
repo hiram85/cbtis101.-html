@@ -1,0 +1,119 @@
+body{
+    background-image:url("../img/portada3.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+height: 200vh;
+color: #f8f4f4;
+
+ }
+p{ 
+   color:rgb(229, 225, 225);
+    width: 500px;
+}
+h1{color: rgb(132, 7, 18)}
+h2
+
+
+.contenedor { 
+     display: flex;
+     justify-content: right;
+     background-color: rgb(105, 10, 10);
+
+}
+
+.imagen1 { 
+    width: 350px;
+    align-self: center;
+}
+
+.btn-1{
+        text-decoration: none;
+        padding: 1.5rem 1rem;
+        background-color: 
+        rgb(157, 11, 28);
+        border-radius: 25px;
+        color:#f8f4f4;
+        transition: all 0.2s;
+        display: inline-block;
+
+    }
+
+    .btn-1:hover{
+        background-color: rgb(90, 7, 24);
+        color: #f8f4f4;
+        transform: scale(1.2);
+    }
+   .btn-2{
+     text-decoration: none;
+        padding: 1.5rem 1rem;
+        background-color: 
+        rgb(157, 11, 28);
+        border-radius: 25px;
+        color:#f8f4f4;
+        transition: all 0.2s;
+        display: inline-block;
+    
+    }
+
+    .btn-2:hover{
+        background-color: rgb(90, 7, 24);
+        color: #f8f4f4;
+        transform: scale(1.2);
+    }
+
+         .btn-3{
+             text-decoration: none;
+        padding: 1.5rem 1rem;
+        background-color: 
+         rgb(157, 11, 28);;
+        border-radius: 25px;
+        color:#f8f4f4;
+        transition: all 0.2s;
+        display: inline-block;
+       
+           }
+
+           .btn-3:hover{
+        background-color: rgb(90, 7, 24);
+        color:#f8f4f4;
+        transform: scale(1.2);
+    }
+    .btn-4{
+             text-decoration: none;
+        padding: 1.5rem 1rem;
+        background-color: 
+        rgb(157, 11, 28);;
+        border-radius: 25px;
+        color:#f8f4f4;
+        transition: all 0.2s;
+        display: inline-block;
+       
+           }
+
+           .btn-4:hover{
+        background-color: rgb(90, 7, 24);
+        color: #f8f4f4;
+        transform: scale(1.2);
+    }
+
+     .btn-5{
+             text-decoration: none;
+        padding: 1.5rem 1rem;
+        background-color: 
+        rgb(157, 11, 28);;
+        border-radius: 25px;
+        color:#f8f4f4;
+        transition: all 0.2s;
+        display: inline-block;
+       
+           }
+
+           .btn-5:hover{
+        background-color: rgb(90, 7, 24);
+        color: #f8f4f4;
+        transform: scale(1.2);
+    }
+

@@ -1,11 +1,5 @@
 body{
-    background-image:url("../img/portada3.avif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: 0;
-    padding: 0;
-height: 200vh;
+   background-color: black;
 color: #f8f4f4;
 
  }
